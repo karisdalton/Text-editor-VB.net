@@ -1,0 +1,15 @@
+F:\VISUAL BASIC\Editoriorito\bin\Debug\Editoriorito.exe.config
+F:\VISUAL BASIC\Editoriorito\bin\Debug\Editoriorito.exe
+F:\VISUAL BASIC\Editoriorito\bin\Debug\Editoriorito.pdb
+F:\VISUAL BASIC\Editoriorito\bin\Debug\Editoriorito.xml
+F:\VISUAL BASIC\Editoriorito\obj\Debug\Editoriorito.Form1.resources
+F:\VISUAL BASIC\Editoriorito\obj\Debug\Editoriorito.Resources.resources
+F:\VISUAL BASIC\Editoriorito\obj\Debug\Editoriorito.vbproj.GenerateResource.cache
+F:\VISUAL BASIC\Editoriorito\obj\Debug\Editoriorito.exe
+F:\VISUAL BASIC\Editoriorito\obj\Debug\Editoriorito.xml
+F:\VISUAL BASIC\Editoriorito\obj\Debug\Editoriorito.pdb
+F:\VISUAL BASIC\Editoriorito\bin\Debug\Editoriorito.exe.manifest
+F:\VISUAL BASIC\Editoriorito\bin\Debug\Editoriorito.application
+F:\VISUAL BASIC\Editoriorito\obj\Debug\Editoriorito.exe.manifest
+F:\VISUAL BASIC\Editoriorito\obj\Debug\Editoriorito.application
+F:\VISUAL BASIC\Editoriorito\obj\Debug\Editoriorito.vbprojAssemblyReference.cache
